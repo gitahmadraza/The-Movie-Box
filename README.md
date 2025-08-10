@@ -45,9 +45,6 @@ https://gitahmadraza.github.io/The-Movie-Box/
 ├── wheel.js
 └── top-rated.js
 
-yaml
-Copy
-Edit
 
 - `main.js`: General utilities and TMDb helper functions  
 - `wheel.js`: Handles movie wheel logic (fetching & spinning)  
