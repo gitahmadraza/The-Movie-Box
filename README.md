@@ -7,7 +7,7 @@ https://gitahmadraza.github.io/The-Movie-Box/
 
 ## Overview
 
-**The Movie Box** is a multi-page, front-end web app built using **HTML, CSS, and JavaScript**, powered by **The Movie Database (TMDb) API**. It helps users discover new movies through a playful Wheel of Fortune-style interface and browse top-rated titles.
+**The Movie Box** is a multi-page, front-end web app built using **HTML, CSS, and JavaScript**, powered by **The Movie Database (TMDb) API**. It is a **Movie Recommendation System**. It helps users discover new movies through a playful Wheel of Fortune-style interface and browse top-rated titles.
 
 ---
 
@@ -77,7 +77,8 @@ https://gitahmadraza.github.io/The-Movie-Box/
 
 Powered by **The Movie Database (TMDb)** — thank you for your rich movie database!  
 Made with ❤️ by **Ahmad Raza**
-
+## Note 
+It is only a movie reccomendation site that helps you to pick movies on based of **GENRE**. It is not a **STREAMING SITE**.
 ---
 
 ## License
